@@ -29,6 +29,7 @@
     "8302367501:AAFwqTKw-ZLk8qza4o3fS6ZDh70WfBDjw5k",
     "8433882820:AAGV9_GEJ4Fm78WpieRPrKWTyCFa-m6gp6s",
     "8438899324:AAF3lg2G28YuOx-ZQruGqtpAQVcZKmCtan8",
-    "8133012126:AAE2_glSveNHrzgdg2pUqaIQpbYUTz-ycNg"
+    "8133012126:AAE2_glSveNHrzgdg2pUqaIQpbYUTz-ycNg",
+    "8069774190:AAFdCE2bKRrlykh9g-8TjGjbSTuLu9nxsb0"
   ]
 }
